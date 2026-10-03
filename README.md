@@ -109,9 +109,12 @@ Uma árvore de decisão de profundidade 4 aprende a classe real da base, em um t
 
 ## Estrutura do projeto
 
+O notebook está organizado nas 15 seções do roteiro da disciplina: título e integrantes, pergunta, fonte, bibliotecas, carga, exploração, limpeza, agrupamento, classificação, nota sobre padrões frequentes, avaliação, interpretação, limitações, conclusão e referências.
+
 ```text
 .
 ├── Mineracao_de_Dados_Heart_Disease.ipynb   # Notebook com a análise
+├── Relatorio_Mineracao_Heart_Disease.docx   # Relatório de 5 páginas
 ├── dados/                                    # Cópia local dos arquivos do UCI
 │   ├── processed.cleveland.data
 │   ├── processed.hungarian.data
