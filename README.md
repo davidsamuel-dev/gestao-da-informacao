@@ -6,13 +6,13 @@
 [![Sistemas de Informação](https://img.shields.io/badge/Sistemas%20de%20Informa%C3%A7%C3%A3o-8250df)](https://www.ifto.edu.br/)
 [![IFTO](https://img.shields.io/badge/IFTO-Para%C3%ADso%20do%20Tocantins-2ea44f)](https://www.ifto.edu.br/)
 
-Trabalho de **Mineração de Dados** do curso de Sistemas de Informação do [IFTO — Campus Paraíso do Tocantins](https://www.ifto.edu.br/), 6º período, orientado pelo **Prof. Marcos Raimundo**.
+Trabalho da disciplina de **Gestão da Informação** do curso de Sistemas de Informação do [IFTO — Campus Paraíso do Tocantins](https://www.ifto.edu.br/), 6º período, orientado pelo **Prof. Marcos Raimundo**.
 
 A análise usa a base **Heart Disease**, do [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/45/heart+disease). O notebook junta fichas de quatro hospitais, limpa o que não está preenchido e responde:
 
 > Entre pacientes avaliados para doença arterial coronariana, quais perfis clínicos se parecem e é possível classificar a presença da doença a partir dos exames disponíveis?
 
-O fluxo completo está em [Mineracao_de_Dados_Heart_Disease.ipynb](Mineracao_de_Dados_Heart_Disease.ipynb).
+O fluxo completo está em [Mineracao_de_Dados_Heart_Disease.ipynb](Mineracao_de_Dados_Heart_Disease.ipynb). O relatório, com problema, dataset, método, resultados, interpretação e limitações, está em [Relatorio_Mineracao_Heart_Disease.docx](Relatorio_Mineracao_Heart_Disease.docx).
 
 ## Equipe
 
